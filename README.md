@@ -1,7 +1,5 @@
 # Soybean Decision Support System (DSS)
 
-![Soybean DSS Banner](https://via.placeholder.com/1200x300?text=Soybean+DSS)
-
 ## 🌱 Overview
 
 The **Soybean Decision Support System (DSS)** is a **machine learning-powered** web application that predicts soybean **yield** and **protein content** based on key agricultural parameters. Farmers, researchers, and agronomists can use these insights to **optimize productivity** and **enhance crop quality**.
